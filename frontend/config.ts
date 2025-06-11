@@ -13,7 +13,7 @@ import Placeholder11 from "@/assets/placeholders/ae_moneychuck_11.jpg";
 import { COLLECTION_ADDRESS } from "./constants";
 
 export const config: Config = {
-  collection_id: 0xe2b7e942eb42b6bbdf3be16897ac72db764adde4b7ef11b364d5c340fca676ec,
+  collection_id: COLLECTION_ADDRESS,
 
   // Removing one or all of these socials will remove them from the page
   socials: {
