@@ -1,5 +1,5 @@
-## Aptos Build Mint Page Template
-
+## MoneyChuck Build Mint Aptos Page 
+https://saudari.github.io/MoneyChuck/
 This template provides a beautiful pre-made UI for an NFT minting page so that users can mint NFTs from a collection created in Aptos Build.
 
 Once you add your collection's network and address to the `.env` file in this directory, you can deploy your mint page to the cloud hosting provider of your choice. We recommend hosting this page on Vercel if you do not already have a preferred hosting provider.
