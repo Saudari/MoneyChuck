@@ -1,6 +1,15 @@
-import Placeholder1 from "@/assets/placeholders/bear-1.png";
-import Placeholder2 from "@/assets/placeholders/bear-2.png";
-import Placeholder3 from "@/assets/placeholders/bear-3.png";
+import Placeholder1 from "@/assets/placeholders/ae_moneychuck_01.jpg";
+import Placeholder2 from "@/assets/placeholders/ae_moneychuck_02.jpg";
+import Placeholder3 from "@/assets/placeholders/ae_moneychuck_03.jpg";
+import Placeholder4 from "@/assets/placeholders/ae_moneychuck_04.jpg";
+import Placeholder5 from "@/assets/placeholders/ae_moneychuck_05.jpg";
+import Placeholder6 from "@/assets/placeholders/ae_moneychuck_06.jpg";
+import Placeholder7 from "@/assets/placeholders/ae_moneychuck_07.jpg";
+import Placeholder8 from "@/assets/placeholders/ae_moneychuck_08.jpg";
+import Placeholder9 from "@/assets/placeholders/ae_moneychuck_09.jpg";
+import Placeholder10 from "@/assets/placeholders/ae_moneychuck_10.jpg";
+import Placeholder10 from "@/assets/placeholders/ae_moneychuck_11.jpg";
+
 import { COLLECTION_ADDRESS } from "./constants";
 
 export const config: Config = {
@@ -32,7 +41,7 @@ export const config: Config = {
     title: "Our Team",
     members: [
       {
-        name: "Mepoti",
+        name: "KEY_1",
         role: "Aliquip Esse",
         img: Placeholder1,
         socials: {
@@ -40,14 +49,54 @@ export const config: Config = {
         },
       },
       {
-        name: "Zucker",
+        name: "KEY_2",
         role: "Sunt Duis",
         img: Placeholder2,
       },
       {
-        name: "SimonT",
-        role: "Ullamco Tempor",
+        name: "KEY_3",
+        role: "Sunt Duis",
         img: Placeholder3,
+      },
+      {
+        name: "KEY_4",
+        role: "Sunt Duis",
+        img: Placeholder4,
+      },
+      {
+        name: "KEY_5",
+        role: "Sunt Duis",
+        img: Placeholder5,
+      },
+      {
+        name: "KEY_6",
+        role: "Sunt Duis",
+        img: Placeholder6,
+      },
+      {
+        name: "KEY_7",
+        role: "Sunt Duis",
+        img: Placeholder7,
+      },
+      {
+        name: "KEY_8",
+        role: "Sunt Duis",
+        img: Placeholder8,
+      },
+      {
+        name: "KEY_9",
+        role: "Sunt Duis",
+        img: Placeholder9,
+      },
+      {
+        name: "KEY_10",
+        role: "Sunt Duis",
+        img: Placeholder10,
+      },
+      {
+        name: "KEY_11",
+        role: "Ullamco Tempor",
+        img: Placeholder11,
         socials: {
           twitter: "https://twitter.com",
         },
