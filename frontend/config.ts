@@ -23,22 +23,21 @@ export const config: Config = {
   },
 
   defaultCollection: {
-    name: "Lorem Ipsum",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue convallis augue in pharetra.",
-    image: Placeholder1,
-  },
+    name: "Money Chuck",
+    description: "",
+    image: [Placeholder1,Placeholder2,Placeholder3,Placeholder4,Placeholder5,Placeholder6,Placeholder7,Placeholder8,Placeholder9,Placeholder10,Placeholder11]
+},
 
   ourStory: {
     title: "Our Story",
     subTitle: "Proin lorem",
-    description:
-      "Phasellus pellentesque malesuada pretium. Vestibulum sed justo at velit rhoncus finibus nec quis urna. Aenean rutrum congue tincidunt. Praesent id urna quis risus sodales feugiat vitae quis orci. Proin tincidunt eu nisi quis sollicitudin. Nulla facilisis eget tellus quis fermentum. Nunc vel neque at erat dictum tempus. Aliquam in mollis lacus, non fringilla lacus. Nunc blandit iaculis ante vitae pulvinar.",
+    description: "",
     discordLink: "https://discord.com",
     images: [Placeholder1, Placeholder2, Placeholder3],
   },
 
   ourTeam: {
-    title: "Our Team",
+    title: "MINT KEY",
     members: [
       {
         name: "KEY_1",
