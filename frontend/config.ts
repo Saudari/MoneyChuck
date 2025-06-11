@@ -8,7 +8,7 @@ import Placeholder7 from "@/assets/placeholders/ae_moneychuck_07.jpg";
 import Placeholder8 from "@/assets/placeholders/ae_moneychuck_08.jpg";
 import Placeholder9 from "@/assets/placeholders/ae_moneychuck_09.jpg";
 import Placeholder10 from "@/assets/placeholders/ae_moneychuck_10.jpg";
-import Placeholder10 from "@/assets/placeholders/ae_moneychuck_11.jpg";
+import Placeholder11 from "@/assets/placeholders/ae_moneychuck_11.jpg";
 
 import { COLLECTION_ADDRESS } from "./constants";
 
