@@ -23,17 +23,17 @@ export const config: Config = {
   },
 
   defaultCollection: {
-    name: "Money Chuck",
+    name: "MoneyChuck",
     description: "",
-    image: [Placeholder1,Placeholder2,Placeholder3,Placeholder4,Placeholder5,Placeholder6,Placeholder7,Placeholder8,Placeholder9,Placeholder10,Placeholder11]
-},
+    image: Placeholder1,
+  },
 
   ourStory: {
-    title: "Our Story",
+    title: "MoneyChuck",
     subTitle: "Proin lorem",
     description: "",
     discordLink: "https://discord.com",
-    images: [Placeholder1, Placeholder2, Placeholder3],
+    images: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11],
   },
 
   ourTeam: {
@@ -103,9 +103,21 @@ export const config: Config = {
     ],
   },
 
+ faqs: {
+    title: "F.A.Q.",
 
+    questions: [
+      {
+        title: "MoneyChuck",
+        description:
+          "AE.LTD GEME GO MINT KEY",
+      },
+     
+    
+    ],
+  },
 
-  nftBanner: [Placeholder1, Placeholder2, Placeholder3],
+  nftBanner: [Placeholder1, Placeholder2, Placeholder3, Placeholder4, Placeholder5, Placeholder6, Placeholder7, Placeholder8, Placeholder9, Placeholder10, Placeholder11],
 };
 
 export interface Config {
