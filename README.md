@@ -36,4 +36,16 @@ AE-LABS AE_NFT=KEY Claim key airdrop
   <a href="https://">
     <img src="https://github.com/Saudari/MoneyChuck/blob/main/frontend/assets/placeholders/ae_moneychuck_11.jpg" alt="Money Chuck" width="100">
   </a>
+   <a href="https://">
+    <img src="https://github.com/Saudari/MoneyChuck/blob/main/frontend/assets/placeholders/ae_moneychuck_bg_01.jpg" alt="Money Chuck" width="100">
+  </a>
+ <a href="https://">
+    <img src="https://github.com/Saudari/MoneyChuck/blob/main/frontend/assets/placeholders/ae_moneychuck_bg_02.jpg" alt="Money Chuck" width="100">
+  </a>
+  <a href="https://">
+    <img src="https://github.com/Saudari/MoneyChuck/blob/main/frontend/assets/placeholders/ae_moneychuck_bg_03.jpg" alt="Money Chuck" width="100">
+  </a>
+  <a href="https://">
+    <img src="https://github.com/Saudari/MoneyChuck/blob/main/frontend/assets/placeholders/ae_moneychuck_bg_04.jpg" alt="Money Chuck" width="100">
+  </a>
 </div>
